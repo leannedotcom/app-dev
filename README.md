@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-Stranger Things
+Update README — add Stranger Things details
 
 My Favorite Series
 
